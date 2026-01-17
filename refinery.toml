@@ -1,0 +1,4 @@
+[main]
+db_type = "postgres"
+db_path = "postgres://postgres:postgres@localhost/glust"
+migrations_path = "./migrations"
